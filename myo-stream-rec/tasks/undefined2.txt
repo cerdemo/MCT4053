@@ -1,0 +1,40 @@
+.
+..
+...
+.... (get ready for Task A / Take 1!)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (get ready for Task B / Take 1!)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (get ready for Task A / Take 2)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (get ready for Task B / Take 2)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (get ready for Task A / Take 3)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (get ready for Task B / Take 3)
+.
+..
+...
+.... (get ready for Rest!)
+.
+.. (FINAL)

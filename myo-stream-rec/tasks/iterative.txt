@@ -1,0 +1,40 @@
+T-Pose!
+T-Pose!.
+Rest! (stay neutral)
+Rest!.
+PLAY! B_B_B_B.    (Take 1)
+PLAY! B_B_B_B..   (Take 1)
+PLAY! B_B_B_B...  (Take 1)
+PLAY! B_B_B_B.... (Take 1)
+Rest! (stay neutral)
+Rest!.
+PLAY! B_C_B_C.    (Take 1.5)
+PLAY! B_C_B_C..   (Take 1.5)
+PLAY! B_C_B_C...  (Take 1.5)
+PLAY! B_C_B_C.... (Take 1.5)
+Rest! (stay neutral)
+Rest!.
+PLAY! B_B_B_B.    (Take 2)
+PLAY! B_B_B_B..   (Take 2)
+PLAY! B_B_B_B...  (Take 2)
+PLAY! B_B_B_B.... (Take 2)
+Rest! (stay neutral)
+Rest!.
+PLAY! B_C_B_C.    (Take 2.5)
+PLAY! B_C_B_C..   (Take 2.5)
+PLAY! B_C_B_C...  (Take 2.5)
+PLAY! B_C_B_C.... (Take 2.5)
+Rest! (stay neutral)
+Rest!.
+PLAY! B_B_B_B.    (Take 3)
+PLAY! B_B_B_B..   (Take 3)
+PLAY! B_B_B_B...  (Take 3)
+PLAY! B_B_B_B.... (Take 3)
+Rest! (stay neutral)
+Rest!.
+PLAY! B_C_B_C.    (Take 3.5)
+PLAY! B_C_B_C..   (Take 3.5)
+PLAY! B_C_B_C...  (Take 3.5)
+PLAY! B_C_B_C.... (Take 3.5)
+Rest! (stay neutral)
+Rest!. (FINAL)

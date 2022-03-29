@@ -1,0 +1,40 @@
+T-Pose!
+T-Pose!.
+Rest!     (stay neutral)
+Rest!.   
+Hit B and sustain.    (Take 1)
+   Keep B sustain..   (Take 1)
+   Keep B sustain...  (Take 1)
+   Keep B sustain.... (Take 1)
+Rest!     (stay neutral)
+Rest!.  
+Hit C and sustain.    (Take 1.5)
+   Keep C sustain..   (Take 1.5)
+   Keep C sustain...  (Take 1.5)
+   Keep C sustain.... (Take 1.5)
+Rest!     (stay neutral)
+Rest!.   
+Hit B and sustain.    (Take 2)
+   Keep B sustain..   (Take 2)
+   Keep B sustain...  (Take 2)
+   Keep B sustain.... (Take 2)
+Rest!     (stay neutral)
+Rest!.   
+Hit C and sustain.    (Take 2.5)
+   Keep C sustain..   (Take 2.5)
+   Keep C sustain...  (Take 2.5)
+   Keep C sustain.... (Take 2.5)
+Rest!     (stay neutral)
+Rest!.   
+Hit B and sustain.    (Take 3)
+   Keep B sustain..   (Take 3)
+   Keep B sustain...  (Take 3)
+   Keep B sustain.... (Take 3)
+Rest!     (stay neutral)
+Rest!.  
+Hit C and sustain.    (Take 3.5)
+   Keep C sustain..   (Take 3.5)
+   Keep C sustain...  (Take 3.5)
+   Keep C sustain.... (Take 3.5)
+Rest!     (stay neutral)
+Rest!.   (FINAL)
