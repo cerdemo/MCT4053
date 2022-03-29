@@ -1,0 +1,40 @@
+T-Pose!
+T-Pose!.
+Rest!
+Rest!.
+PLAY! Task_a.  
+PLAY! Task_a.. 
+PLAY! Task_a...  
+PLAY! Task_a....  
+Rest!
+Rest!.
+PLAY! Task_b.  
+PLAY! Task_b.. 
+PLAY! Task_b...  
+PLAY! Task_b....
+Rest!
+Rest!.
+PLAY! Task_a.  
+PLAY! Task_a.. 
+PLAY! Task_a...  
+PLAY! Task_a....  
+Rest!
+Rest!.
+PLAY! Task_b.  
+PLAY! Task_b.. 
+PLAY! Task_b...  
+PLAY! Task_b....
+Rest!
+Rest!.
+PLAY! Task_a.  
+PLAY! Task_a.. 
+PLAY! Task_a...  
+PLAY! Task_a....  
+Rest!
+Rest!.
+PLAY! Task_b.  
+PLAY! Task_b.. 
+PLAY! Task_b...  
+PLAY! Task_b....
+Rest!
+FINAL!
