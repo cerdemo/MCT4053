@@ -1,0 +1,26 @@
+
+The red on/off buttons on the left (from the top):
+1- Start OSC
+2- Start the wavetable buffers
+3- Start the wavetables
+
+...on the right:
+1- Start the EMG signal visualization
+
+
+You should first type the OSC port and address, then start the engine.
+
+Press "O" on the keyboard to randomly change the pitch.
+
+You can adjust the volume of the wavetables separately.
+
+You can adjust the amount of the reverb with the stereo fader in the bottom.
+
+You can adjust the filter parameters.
+
+Now the envelopes are also connected to random objects, 
+but you can turn off that to select the envelope shapes manually, 
+through the tiny buttons that are on the top-right of the envelope windows. 
+
+I have added some feature extractors to be used as control signals,
+but they are not mapped to any parameter now. We can discuss about that.
