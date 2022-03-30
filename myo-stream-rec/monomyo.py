@@ -50,7 +50,8 @@ def toEulerAngle(w, x, y, z):
     # pitch (y-axis rotation)
     sinp = +2.0 * (w * y - z * x)
     if math.fabs(sinp) >= 1:
-        pitch = math.copysign(math.pi / 2, sinp)  # use 90 degrees if out of range
+        # use 90 degrees if out of range
+        pitch = math.copysign(math.pi / 2, sinp)
     else:
         pitch = math.asin(sinp)
     # yaw (z-axis rotation)
@@ -97,10 +98,12 @@ def proc_imu(index):
             address4, (roll / math.pi, pitch / math.pi, yaw / math.pi)
         )  # vals sent in [-1,1] (not [-pi,pi])
         osc_client.send_message(
-            address5, vector_3d_magnitude(acc_data[0], acc_data[1], acc_data[2])
+            address5, vector_3d_magnitude(
+                acc_data[0], acc_data[1], acc_data[2])
         )  # magnitude of accelerometer vector
         osc_client.send_message(
-            address6, vector_3d_magnitude(gyro_data[0], gyro_data[1], gyro_data[2])
+            address6, vector_3d_magnitude(
+                gyro_data[0], gyro_data[1], gyro_data[2])
         )  # magnitude of gyroscope vector
 
     return handler

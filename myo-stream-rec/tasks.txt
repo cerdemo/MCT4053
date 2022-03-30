@@ -1,0 +1,40 @@
+T-Pose!
+T-Pose!.
+Rest!
+Rest!.
+PLAY! a_1  (Take 1)
+PLAY! a_2  (Take 1)
+PLAY! a_3  (Take 1)
+PLAY! a_4  (Take 1)
+Rest!
+Rest!.
+PLAY! b_1 (Take 1.5)
+PLAY! b_2 (Take 1.5)
+PLAY! b_3 (Take 1.5)
+PLAY! b_4 (Take 1.5)
+Rest!
+Rest!.
+PLAY! a_1  (Take 2)
+PLAY! a_2  (Take 2)
+PLAY! a_3  (Take 2)
+PLAY! a_4  (Take 2)
+Rest!
+Rest!.
+PLAY! b_1 (Take 2.5)
+PLAY! b_2 (Take 2.5)
+PLAY! b_3 (Take 2.5)
+PLAY! b_4 (Take 2.5)
+Rest!
+Rest!.
+PLAY! a_1  (Take 3)
+PLAY! a_2  (Take 3)
+PLAY! a_3  (Take 3)
+PLAY! a_4  (Take 3)
+Rest!
+Rest!.
+PLAY! b_1 (Take 3.5)
+PLAY! b_2 (Take 3.5)
+PLAY! b_3 (Take 3.5)
+PLAY! b_4 (Take 3.5)
+Rest!
+Rest!. (FINAL)
